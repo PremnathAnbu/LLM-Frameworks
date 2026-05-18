@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+fastapi 
+uvicorn 
+requests
