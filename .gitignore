@@ -1,0 +1,4 @@
+venv/
+agno/venv/
+agno/.env
+.env

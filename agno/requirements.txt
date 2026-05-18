@@ -1,0 +1,9 @@
+ langchain
+ langgraph
+ agno
+ langchain_groq
+ python-dotenv
+ sentence_transformers 
+ pypdf
+ agno[knowledge]
+ yfinance
